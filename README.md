@@ -7,6 +7,7 @@ My LeetCode DSA solutions in Java
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mohit777singh/leetcode/tree/master/0037-sudoku-solver) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mohit777singh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ My LeetCode DSA solutions in Java
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mohit777singh/leetcode/tree/master/0037-sudoku-solver) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mohit777singh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -40,4 +42,12 @@ My LeetCode DSA solutions in Java
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Mohit777singh/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mohit777singh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mohit777singh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
