@@ -9,11 +9,13 @@ My LeetCode DSA solutions in Java
 | [0037-sudoku-solver](https://github.com/Mohit777singh/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Mohit777singh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohit777singh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0496-next-greater-element-i](https://github.com/Mohit777singh/leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mohit777singh/leetcode/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/Mohit777singh/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/Mohit777singh/leetcode/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -62,11 +64,13 @@ My LeetCode DSA solutions in Java
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohit777singh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Mohit777singh/leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Mohit777singh/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohit777singh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Mohit777singh/leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Mohit777singh/leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
