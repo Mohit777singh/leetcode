@@ -8,6 +8,7 @@ My LeetCode DSA solutions in Java
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mohit777singh/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Mohit777singh/leetcode/tree/master/0042-trapping-rain-water) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohit777singh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Mohit777singh/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohit777singh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/Mohit777singh/leetcode/tree/master/0496-next-greater-element-i) |
@@ -53,6 +54,7 @@ My LeetCode DSA solutions in Java
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohit777singh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohit777singh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
@@ -96,4 +98,12 @@ My LeetCode DSA solutions in Java
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Mohit777singh/leetcode/tree/master/0229-majority-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohit777singh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohit777singh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
