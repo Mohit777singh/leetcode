@@ -8,6 +8,7 @@ My LeetCode DSA solutions in Java
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mohit777singh/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Mohit777singh/leetcode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Mohit777singh/leetcode/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohit777singh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Mohit777singh/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohit777singh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -29,6 +30,7 @@ My LeetCode DSA solutions in Java
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mohit777singh/leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Mohit777singh/leetcode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohit777singh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Algorithm X
 |  |
@@ -111,5 +113,6 @@ My LeetCode DSA solutions in Java
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mohit777singh/leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Mohit777singh/leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
