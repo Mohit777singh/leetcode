@@ -49,6 +49,7 @@ My LeetCode DSA solutions in Java
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Mohit777singh/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Mohit777singh/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0328-odd-even-linked-list](https://github.com/Mohit777singh/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
