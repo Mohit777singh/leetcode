@@ -16,32 +16,17 @@
 class Solution {
     public TreeNode reverseOddLevels(TreeNode root) {
         if(root==null) return root;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-        int lvl=0;
-        while(!q.isEmpty()){
-            List<TreeNode> list = new LinkedList<>();
-            int size = q.size();
-            for(int i = 0; i<size; i++){
-                TreeNode curr = q.poll();
-                list.add(curr);
-                if(curr.left!=null) q.offer(curr.left);
-                if(curr.right!=null) q.offer(curr.right);
-            }
-
-            if(lvl%2!=0){
-                int left = 0;
-                int right = list.size()-1;
-                while(left<right){
-                    int temp  = list.get(left).val;
-                    list.get(left).val = list.get(right).val;
-                    list.get(right).val =temp;
-                    left++;
-                    right--;
-                }
-            }
-            lvl++;
-        }
+        helper(root.left, root.right, 1);
         return root;
+    }
+    public void helper(TreeNode left, TreeNode right, int depth){
+        if(left==null || right ==null)return;
+        if(depth%2!=0){
+            int temp = left.val;
+            left.val = right.val;
+            right.val = temp;
+        }
+        helper(left.left, right.right, depth+1);
+        helper(left.right, right.left, depth+1);
     }
 }
