@@ -50,6 +50,7 @@ My LeetCode DSA solutions in Java
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Mohit777singh/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mohit777singh/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mohit777singh/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Mohit777singh/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/Mohit777singh/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
@@ -153,6 +154,7 @@ My LeetCode DSA solutions in Java
 | [0112-path-sum](https://github.com/Mohit777singh/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mohit777singh/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mohit777singh/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mohit777singh/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohit777singh/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -168,6 +170,7 @@ My LeetCode DSA solutions in Java
 | [0112-path-sum](https://github.com/Mohit777singh/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mohit777singh/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mohit777singh/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mohit777singh/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohit777singh/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -185,6 +188,7 @@ My LeetCode DSA solutions in Java
 | [0112-path-sum](https://github.com/Mohit777singh/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mohit777singh/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mohit777singh/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mohit777singh/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohit777singh/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -200,6 +204,7 @@ My LeetCode DSA solutions in Java
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Mohit777singh/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mohit777singh/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mohit777singh/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohit777singh/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## DP on Trees
