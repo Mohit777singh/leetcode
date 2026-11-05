@@ -26,6 +26,7 @@ My LeetCode DSA solutions in Java
 | [0169-majority-element](https://github.com/Mohit777singh/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mohit777singh/leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Mohit777singh/leetcode/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,6 +114,7 @@ My LeetCode DSA solutions in Java
 | [0169-majority-element](https://github.com/Mohit777singh/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit777singh/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mohit777singh/leetcode/tree/master/0229-majority-element-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
 | ------- |
@@ -161,6 +163,7 @@ My LeetCode DSA solutions in Java
 | [0199-binary-tree-right-side-view](https://github.com/Mohit777singh/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Mohit777singh/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -177,6 +180,7 @@ My LeetCode DSA solutions in Java
 | [0199-binary-tree-right-side-view](https://github.com/Mohit777singh/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Mohit777singh/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -195,6 +199,7 @@ My LeetCode DSA solutions in Java
 | [0199-binary-tree-right-side-view](https://github.com/Mohit777singh/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Mohit777singh/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -206,6 +211,7 @@ My LeetCode DSA solutions in Java
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mohit777singh/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mohit777singh/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohit777singh/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## DP on Trees
 |  |
