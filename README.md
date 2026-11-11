@@ -108,6 +108,7 @@ My LeetCode DSA solutions in Java
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Mohit777singh/leetcode/tree/master/0402-remove-k-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohit777singh/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -252,4 +253,8 @@ My LeetCode DSA solutions in Java
 | [0098-validate-binary-search-tree](https://github.com/Mohit777singh/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mohit777singh/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohit777singh/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohit777singh/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
