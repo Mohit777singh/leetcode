@@ -9,6 +9,7 @@ My LeetCode DSA solutions in Java
 | [0037-sudoku-solver](https://github.com/Mohit777singh/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Mohit777singh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Mohit777singh/leetcode/tree/master/0054-spiral-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Mohit777singh/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohit777singh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit777singh/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -22,6 +23,7 @@ My LeetCode DSA solutions in Java
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mohit777singh/leetcode/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/Mohit777singh/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Mohit777singh/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mohit777singh/leetcode/tree/master/0229-majority-element-ii) |
@@ -71,6 +73,7 @@ My LeetCode DSA solutions in Java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Mohit777singh/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit777singh/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohit777singh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -155,6 +158,7 @@ My LeetCode DSA solutions in Java
 | [0101-symmetric-tree](https://github.com/Mohit777singh/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mohit777singh/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mohit777singh/leetcode/tree/master/0113-path-sum-ii) |
@@ -204,6 +208,7 @@ My LeetCode DSA solutions in Java
 | [0101-symmetric-tree](https://github.com/Mohit777singh/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mohit777singh/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mohit777singh/leetcode/tree/master/0113-path-sum-ii) |
