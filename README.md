@@ -19,6 +19,7 @@ My LeetCode DSA solutions in Java
 | [0503-next-greater-element-ii](https://github.com/Mohit777singh/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Mohit777singh/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mohit777singh/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mohit777singh/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ My LeetCode DSA solutions in Java
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohit777singh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mohit777singh/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -265,5 +267,14 @@ My LeetCode DSA solutions in Java
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mohit777singh/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohit777singh/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mohit777singh/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mohit777singh/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
