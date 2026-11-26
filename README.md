@@ -11,6 +11,7 @@ My LeetCode DSA solutions in Java
 | [0054-spiral-matrix](https://github.com/Mohit777singh/leetcode/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Mohit777singh/leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Mohit777singh/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohit777singh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit777singh/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mohit777singh/leetcode/tree/master/0229-majority-element-ii) |
@@ -40,6 +41,7 @@ My LeetCode DSA solutions in Java
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mohit777singh/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Mohit777singh/leetcode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Mohit777singh/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohit777singh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Algorithm X
 |  |
@@ -195,6 +197,7 @@ My LeetCode DSA solutions in Java
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohit777singh/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohit777singh/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Mohit777singh/leetcode/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mohit777singh/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohit777singh/leetcode/tree/master/0437-path-sum-iii) |
@@ -241,6 +244,7 @@ My LeetCode DSA solutions in Java
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mohit777singh/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mohit777singh/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohit777singh/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Mohit777singh/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohit777singh/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohit777singh/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -282,6 +286,7 @@ My LeetCode DSA solutions in Java
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Mohit777singh/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohit777singh/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
